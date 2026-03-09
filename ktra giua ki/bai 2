@@ -1,0 +1,7 @@
+s = 0
+
+for i in range(111 , 15, -2):
+    print(i)
+
+
+

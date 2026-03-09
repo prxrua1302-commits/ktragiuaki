@@ -1,0 +1,5 @@
+S = [ a , b, c, d]
+a = int(input(f"nhap a"))
+b = int(input(f"nhap b"))
+c = int(input(f"nhap c"))
+d = int(input(f"nhap d"))
